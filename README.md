@@ -4,7 +4,7 @@ This Tableau dashboard explores patterns in U.S. domestic airline travel from 19
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Assignment 1/Dashboard.png)
+![Dashboard Preview](Assignment%101/Dashboard.png)
 
 ## 📊 Key Visuals
 
